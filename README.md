@@ -7,7 +7,7 @@ Welcome to Art-Gallery! This project is a simple and user-friendly frontend web 
 
 ## Quick Start
 
-To view the gallery, open [Art Gallery](https://mugichoki.github.io/Photo-Gallery/Class Work/index.html).
+To view the gallery, open [Art Gallery](https://mugichoki.github.io/Photo-Gallery/ClassWork/index.html).
 
 ## Description
 
